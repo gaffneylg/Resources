@@ -11,11 +11,11 @@
 <br />
 
 ## Paid Courses
-* [Poeticoins Elixir & Phoenix Crypto Dashboard course](https://courses.poeticoding.com/p/build-a-cryptocurrency-dashboard-with-elixir-and-phoenix-liveview)
-* [Complete Elixir & Phoenix Bootcamp](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
-* [Elixir & OTP](https://pragmaticstudio.com/courses/elixir)
-* [Phoenix LiveView](https://pragmaticstudio.com/phoenix-liveview)
-* [Ultimate Hands-On Hadoop](https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/)
+* [Poeticoins Elixir & Phoenix Crypto Dashboard course](https://courses.poeticoding.com/p/build-a-cryptocurrency-dashboard-with-elixir-and-phoenix-liveview) - Poeticoding
+* [Complete Elixir & Phoenix Bootcamp](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/) - Udemy
+* [Elixir & OTP](https://pragmaticstudio.com/courses/elixir) - The Pragmatic Studio
+* [Phoenix LiveView](https://pragmaticstudio.com/phoenix-liveview) - The Pragmatic Studio
+* [Ultimate Hands-On Hadoop](https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/) - Udemy
 
 <br />
 
