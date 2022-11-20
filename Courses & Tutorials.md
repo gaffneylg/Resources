@@ -24,6 +24,7 @@
 * [Dev.to](https://dev.to/)
 * [Hashnode](https://hashnode.com/explore)
 * [Medium](https://medium.com/)
+* [Soft skills site](https://yougotthis.io/library/)
 
 <br />
 
