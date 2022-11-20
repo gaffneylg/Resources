@@ -33,6 +33,7 @@
 ## Papers 
 
 * [End-to-End Arguments in System Design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
+* [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 
 
 
