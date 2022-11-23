@@ -20,11 +20,12 @@
 <br />
 
 
-## Decent blog sites:
+## Decent sites & articles:
 * [Dev.to](https://dev.to/)
 * [Hashnode](https://hashnode.com/explore)
 * [Medium](https://medium.com/)
 * [Soft skills site](https://yougotthis.io/library/)
+* [Concurrency vs Paralellism - burrito'd](https://nathanmlong.com/2017/06/concurrency-vs-paralellism/)
 
 <br />
 
