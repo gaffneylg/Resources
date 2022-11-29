@@ -26,6 +26,7 @@
 * [Medium](https://medium.com/)
 * [Soft skills site](https://yougotthis.io/library/)
 * [Concurrency vs Paralellism - burrito'd](https://nathanmlong.com/2017/06/concurrency-vs-paralellism/)
+* [SO Blog - Design patterns](https://stackoverflow.blog/2021/10/13/why-solve-a-problem-twice-design-patterns-let-you-apply-existing-solutions-to-your-code/)
 
 <br />
 
